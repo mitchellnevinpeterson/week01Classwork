@@ -1,14 +1,28 @@
+body {
+	background-color: purple;
+}
+
 h1 {_
 text-align: center;
 font-family: Helvetica;
 color: blue;
 font-size: 200px;
 border: 2px dotted purple;
-border-left: : 0px;
+max-width: 1200px;
+padding: 2px;
+position: relative;
+left: 200px;
+
 }
 .color {
 	color: yellow;
 }
+
 #green {
 	color: green;
+}
+
+h2 {
+	position: relative;
+	left: 700px;
 }
