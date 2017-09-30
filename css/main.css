@@ -1,0 +1,14 @@
+h1 {_
+text-align: center;
+font-family: Helvetica;
+color: blue;
+font-size: 200px;
+border: 2px dotted purple;
+border-left: : 0px;
+}
+.color {
+	color: yellow;
+}
+#green {
+	color: green;
+}
